@@ -38,7 +38,7 @@ jobs:
       with:
         image: gayathribhimpati/javapro
         registry: docker.io
-        username: ${{ secrets.USERNAME1 }}
+        username: ${{ secrets.USERNAME2 }}
         password: ${{ secrets.PASSWORD1 }}
   
 
